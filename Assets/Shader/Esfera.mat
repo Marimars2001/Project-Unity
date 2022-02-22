@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Esfera
-  m_Shader: {fileID: 4800000, guid: 51bb1fd6e21fc8d458a03af18851f35c, type: 3}
+  m_Shader: {fileID: 4800000, guid: c34ba3a73d030804a8ee58d0c41c12fe, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -40,7 +40,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 6cf58971b2bf7db4fa4fd6726eec1dea, type: 3}
+        m_Texture: {fileID: 2800000, guid: c1700a0831c3eab4ca4964820d5103dd, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
@@ -48,7 +48,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _NormalTex:
-        m_Texture: {fileID: 2800000, guid: 086bc82254a1e8340afdeedb8e6970b3, type: 3}
+        m_Texture: {fileID: 2800000, guid: 780794d7bb7bf3947ba906ff85ea5ec8, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _OcclusionMap:
@@ -81,9 +81,9 @@ Material:
     - _UVSec: 0
     - _ZWrite: 1
     m_Colors:
-    - _Albedo: {r: 1, g: 1, b: 1, a: 1}
+    - _Albedo: {r: 0.9811321, g: 0.84270287, b: 0.5970096, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _RimColor: {r: 0.2795924, g: 0.3563597, b: 0.5754717, a: 1}
+    - _RimColor: {r: 0.5943396, g: 0.54469657, b: 0.3448291, a: 1}
     - _SpecColor: {r: 1, g: 1, b: 1, a: 1}
   m_BuildTextureStacks: []
